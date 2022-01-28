@@ -1,2 +1,2 @@
- import new database<br>
+ import new database in db folder<br>
 install bootstrap and node modules
